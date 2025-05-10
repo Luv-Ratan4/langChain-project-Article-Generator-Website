@@ -2,3 +2,4 @@ Source :
     - Generative AI playlist (Code with Harry)
     - Video 1 - https://www.youtube.com/watch?v=cQUUkZnyoD0&t=1000s
     - Video 2 - https://www.youtube.com/watch?v=eEeqw8-hNZk
+    - This will be a level 2 project
